@@ -1,0 +1,11 @@
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\bin\Debug\netcoreapp3.1\250MinuteTest.exe
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\bin\Debug\netcoreapp3.1\250MinuteTest.deps.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\bin\Debug\netcoreapp3.1\250MinuteTest.runtimeconfig.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\bin\Debug\netcoreapp3.1\250MinuteTest.runtimeconfig.dev.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\bin\Debug\netcoreapp3.1\250MinuteTest.dll
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\bin\Debug\netcoreapp3.1\250MinuteTest.pdb
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\obj\Debug\netcoreapp3.1\250MinuteTest.csprojAssemblyReference.cache
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\obj\Debug\netcoreapp3.1\250MinuteTest.AssemblyInfoInputs.cache
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\obj\Debug\netcoreapp3.1\250MinuteTest.AssemblyInfo.cs
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\obj\Debug\netcoreapp3.1\250MinuteTest.dll
+D:\School\LeetCode\MergeTwoLists\MergeLists\250MinuteTest\250MinuteTest\obj\Debug\netcoreapp3.1\250MinuteTest.pdb

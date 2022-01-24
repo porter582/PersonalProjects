@@ -1,0 +1,11 @@
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.exe
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.deps.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.runtimeconfig.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.runtimeconfig.dev.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.dll
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\bin\Debug\netcoreapp3.1\MergeLists.pdb
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.csprojAssemblyReference.cache
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.AssemblyInfoInputs.cache
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.AssemblyInfo.cs
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.dll
+D:\School\LeetCode\MergeTwoLists\MergeLists\MergeLists\obj\Debug\netcoreapp3.1\MergeLists.pdb

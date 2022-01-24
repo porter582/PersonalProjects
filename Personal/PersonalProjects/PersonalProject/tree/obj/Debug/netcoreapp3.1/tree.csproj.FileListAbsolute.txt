@@ -1,0 +1,10 @@
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\bin\Debug\netcoreapp3.1\tree.exe
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\bin\Debug\netcoreapp3.1\tree.deps.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\bin\Debug\netcoreapp3.1\tree.runtimeconfig.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\bin\Debug\netcoreapp3.1\tree.runtimeconfig.dev.json
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\bin\Debug\netcoreapp3.1\tree.dll
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\bin\Debug\netcoreapp3.1\tree.pdb
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\obj\Debug\netcoreapp3.1\tree.AssemblyInfoInputs.cache
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\obj\Debug\netcoreapp3.1\tree.AssemblyInfo.cs
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\obj\Debug\netcoreapp3.1\tree.dll
+D:\School\LeetCode\MergeTwoLists\MergeLists\tree\obj\Debug\netcoreapp3.1\tree.pdb
